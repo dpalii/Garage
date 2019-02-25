@@ -16,3 +16,4 @@ PLC "AgroDonMashPromStroi im. R.M."
 * [Project](https://github.com/orgs/progbase/projects/10 "github")
 * [Details](https://docs.google.com/spreadsheets/d/1FuU8Jsq7IBi3PDiiuQpeOHz1ddis0XdbLuSYguO3oPs/edit?usp=drivesdk "Google Spreadsheets")
 * [Presentation](https://docs.google.com/presentation/d/1bAsNQ8ccwbnLXTppgYRm8uV2GCfzKWbWvHF8VzdCSBY/edit#slide=id.g4cd14dbb53_0_2023 "Google Slides")
+* [Product backlog](https://docs.google.com/spreadsheets/d/1DYUy-5W5ZC0AHK-ODaWHBiCdZMlWiDPeVr2NnF0papk/edit#gid=0 "Google Spreadsheets")
